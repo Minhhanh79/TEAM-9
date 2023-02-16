@@ -1,2 +1,3 @@
 # TEAM 9
- Bluetooth file
+ Sensor folder
+ Android Studio folder
